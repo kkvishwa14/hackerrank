@@ -1,2 +1,2 @@
 # online-judge
-Hackerank solved problems
+solved problems
