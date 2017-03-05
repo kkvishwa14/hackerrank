@@ -1,2 +1,2 @@
 # online-judge
-solved problems
+solved problems from various OJs Hackerrank, InterviewBit, LeetCode
