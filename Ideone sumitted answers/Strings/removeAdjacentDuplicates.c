@@ -24,10 +24,6 @@ int len = strlen(str);
    else{
     str[j] = str[i];
    	 	j++;
-   	 	
-   	 	
-   	 	
-   	 	
    	 	i++;
    	 }
    }
